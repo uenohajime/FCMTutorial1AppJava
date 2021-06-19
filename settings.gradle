@@ -1,0 +1,2 @@
+rootProject.name = "FCMTutorial1App"
+include ':app'
